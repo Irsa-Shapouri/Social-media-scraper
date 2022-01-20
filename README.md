@@ -18,7 +18,7 @@ First you have to make a text file for searching in Bing you have to enter the K
 ```
 python Bing.py
 ```
-Then you can run the main file and wait
+Then you can run the main file.
 
 ```
 python main.py
