@@ -5,6 +5,8 @@ This script can scrap website's social meida like "Facebook", "Twitter", "Instag
 and output is a CSV file.
 
 ## Installation
+
+You need chromedriver.
 Python 3+ is required to run PyPI Notifier.Install requirements:
 
     pip install -r requirements.txt
