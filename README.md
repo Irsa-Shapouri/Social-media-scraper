@@ -1,8 +1,8 @@
 # Social-media-scraper
 
-This script can scrap website's social meida like "Facebook", "Twitter", "Instagram", "Linkedin", "Email" and also theyir "Phone number"
+This script can scrap website's social meida like "Facebook", "Twitter", "Instagram", "Linkedin", "Email" and also their "Phone number"
 
-and out put is a CSV file.
+and output is a CSV file.
 
 ## Installation
 Python 3+ is required to run PyPI Notifier.Install requirements:
