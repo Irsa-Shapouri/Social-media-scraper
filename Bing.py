@@ -1,4 +1,4 @@
-file = open('urls.txt','a+',encoding='utf-8')
+file = open('list.txt','a+',encoding='utf-8')
 words = input("Enter the Words: ")
 domains = input("Enter the domains: ")
 
