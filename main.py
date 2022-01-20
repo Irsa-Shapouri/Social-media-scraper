@@ -24,7 +24,7 @@ driver = webdriver.Chrome(chrome_driver_binary, chrome_options = options)
 
 ############################# SCRAPING BING TO MAKE A URL LIST #############################
 
-with open('urls.txt') as file:
+with open('list.txt') as file:
     for line in file:
 
          #Number of Bing pages
